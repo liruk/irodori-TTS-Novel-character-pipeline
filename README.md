@@ -100,6 +100,11 @@ uv run python scripts/generate_voice_samples.py \
 - `--limit 1`
 - `--output-root generated_character_samples`
 
+## Agentへの命令例
+
+```skillsを使い、「オド」の成長前(chapter1)および成長後(chapter4)のvoiceSampleを作ってくれ。```
+複数・別時刻のキャラクターを同時に抽出可能
+
 ## 補足
 
 - 生成音声はキャッシュの外に保存します。

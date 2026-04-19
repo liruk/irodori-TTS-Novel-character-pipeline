@@ -3,3 +3,7 @@ __pycache__/
 .venv/
 generated_character_samples/
 .pytest_cache/
+manuscripts/*
+!manuscripts/.gitkeep
+character_cache/*
+!character_cache/.gitkeep
