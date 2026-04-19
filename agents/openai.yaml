@@ -1,0 +1,7 @@
+interface:
+  display_name: "Irodori Character Pipeline"
+  short_description: "Extract fiction character profiles and generate Irodori batches."
+  default_prompt: "Use $irodori-character-pipeline to turn novel chapters into character profile YAML files and Irodori VoiceDesign sample batches."
+
+policy:
+  allow_implicit_invocation: true

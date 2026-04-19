@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+generated_character_samples/
+.pytest_cache/
